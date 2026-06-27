@@ -20,6 +20,12 @@ I am a **Software Engineering student** and aspiring **Software Developer** focu
 
 ---
 
+### 🔍 Current Focus & Learning Curve
+
+* **🔭 I’m currently working on:** Optimizing backend query performance and resolving server connection limits.
+* **🌱 I’m actively learning:** **Robotic Process Automation (RPA)** using UiPath to automate manual workflows and audit structures.
+* **🧠 Deep Learning Interests:** Exploring the architectures of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for computer vision tasks.
+* 
 ### 📂 Featured Projects
 
 * **RetailPulse** 🛒 — A full-stack pantry and revenue management platform built to optimize inventory velocity and analyze profit margins for retail environments.
