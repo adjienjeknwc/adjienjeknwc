@@ -29,5 +29,5 @@ I am a **Software Engineering student** and aspiring **Software Developer** focu
 ---
 
 ### 📈 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/aditi-verma-8b8220287/))
-* **Portfolio:** [your-portfolio-link.com](https://aditi-portfolio-topaz.vercel.app/)
+* **LinkedIn:** [linkedin]([https://linkedin.com](https://www.linkedin.com/in/aditi-verma-8b8220287/))
+* **Portfolio:** [portolio](https://aditi-portfolio-topaz.vercel.app/)
